@@ -77,8 +77,8 @@ claude4_audit/
 
     🛡️ AI safety consortia
 
-Access is granted upon verified request only.
-This restriction preserves ethical and legal boundaries while enabling responsible disclosure.
+### Access is granted upon verified request only.
+### This restriction preserves ethical and legal boundaries while enabling responsible disclosure.
 ---
 
 **License:** Apache License 2.0  
